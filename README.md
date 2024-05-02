@@ -21,8 +21,8 @@ Untuk menjalankan website ini di komputer lokal Anda, ikuti langkah-langkah beri
 
 1. **Clone Repository**
     ```
-    git clone https://github.com/username/company-profile-website.git
-    cd company-profile-website
+    git clone https://github.com/RayyanFv/smartpath-project-3-reference.git
+    cd smartpath-project-3-reference
     ```
 
 2. **Instal Dependensi**
