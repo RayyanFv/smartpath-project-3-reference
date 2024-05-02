@@ -1,0 +1,51 @@
+.about {
+    background-color: #f8f9fa; /* Warna background */
+    padding: 50px 20px; /* Atur padding atas dan bawah */
+    text-align: center; /* Pusatkan konten */
+}
+
+.about-content {
+    max-width: 800px; /* Lebar maksimum konten */
+    margin: 0 auto; /* Pusatkan konten */
+}
+
+.about h1 {
+    font-size: 36px; /* Ukuran font judul */
+    color: #333; /* Warna teks */
+    margin-bottom: 20px; /* Atur margin bawah */
+}
+
+.about p {
+    font-size: 18px; /* Ukuran font paragraf */
+    color: #666; /* Warna teks */
+    margin-bottom: 30px; /* Atur margin bawah */
+}
+
+.complaint-form {
+    max-width: 600px; /* Lebar maksimum form */
+    margin: 0 auto; /* Pusatkan form */
+    margin-top: 50px; /* Atur margin atas */
+}
+
+.complaint-form h2 {
+    font-size: 24px; /* Ukuran font judul form */
+    color: #333; /* Warna teks */
+    margin-bottom: 20px; /* Atur margin bawah */
+}
+
+.complaint-form textarea {
+    width: 100%; /* Lebar textarea */
+    height: 150px; /* Tinggi textarea */
+    padding: 10px; /* Atur padding */
+    font-size: 16px; /* Ukuran font */
+    border: 1px solid #ccc; /* Border textarea */
+    border-radius: 5px; /* Atur border radius */
+    resize: none; /* Disable resize textarea */
+    margin-bottom: 20px; /* Atur margin bawah */
+}
+
+.complaint-form p {
+    font-size: 16px; /* Ukuran font */
+    color: #666; /* Warna teks */
+    margin-bottom: 10px; /* Atur margin bawah */
+}

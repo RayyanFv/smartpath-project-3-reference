@@ -1,0 +1,16 @@
+.product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Untuk memberi jarak antar item */
+}
+
+.product-item {
+    width: calc(33.33% - 10px); /* Untuk membuat item menjadi tiga kolom dengan jarak antar item */
+    margin-bottom: 20px; /* Atur margin bawah */
+    box-sizing: border-box; /* Untuk memastikan bahwa padding dan border tidak mempengaruhi lebar item */
+}
+
+.product-item img {
+    width: 100%; /* Mengisi lebar gambar */
+    height: auto; /* Menjaga aspek rasio */
+}

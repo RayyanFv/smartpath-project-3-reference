@@ -1,0 +1,37 @@
+.home {
+    background-color: #f8f9fa; /* Warna background */
+    padding: 100px 0; /* Atur padding atas dan bawah */
+    text-align: center; /* Pusatkan konten */
+}
+
+.home-content {
+    max-width: 800px; /* Lebar maksimum konten */
+    margin: 0 auto; /* Pusatkan konten */
+}
+
+.home h1 {
+    font-size: 36px; /* Ukuran font judul */
+    color: #333; /* Warna teks */
+    margin-bottom: 20px; /* Atur margin bawah */
+}
+
+.home p {
+    font-size: 18px; /* Ukuran font paragraf */
+    color: #666; /* Warna teks */
+    margin-bottom: 30px; /* Atur margin bawah */
+}
+
+.home-button {
+    padding: 10px 20px; /* Atur padding */
+    font-size: 16px; /* Ukuran font */
+    color: #fff; /* Warna teks */
+    background-color: #007bff; /* Warna background tombol */
+    border: none; /* Hapus border */
+    border-radius: 5px; /* Atur border radius */
+    cursor: pointer; /* Ganti kursor menjadi pointer saat dihover */
+    transition: background-color 0.3s ease; /* Animasi perubahan warna background */
+}
+
+.home-button:hover {
+    background-color: #0056b3; /* Warna background saat dihover */
+}

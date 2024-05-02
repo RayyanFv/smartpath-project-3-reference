@@ -1,0 +1,16 @@
+/* styles/contact.css */
+
+.contact ul {
+    list-style: none;
+    padding: 0;
+}
+
+.contact li {
+    margin: 10px 0;
+}
+
+.contact img {
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+}
